@@ -17,8 +17,7 @@ Tableau link for storyboard: https://public.tableau.com/views/C02story_169065789
 
 Story Video Link: https://drive.google.com/file/d/1QSMWNqwjREKHTr9nzBjYA8fizXUReb6v/view?usp=drive_link
 
-Web Interfacing Video link: ****************************************************************************************
-
+Web Interfacing Video link: https://drive.google.com/file/d/1Fnj7eZKvV7G43BrwiMaadktNwpiIrCR3/view?usp=drive_link
 Finally....
 
 Video Links for end to end solution:
@@ -27,4 +26,4 @@ Database Connection with Tableau Video https://drive.google.com/file/d/193jEptaM
 
 Story Video https://drive.google.com/file/d/1QSMWNqwjREKHTr9nzBjYA8fizXUReb6v/view?usp=drive_link
 
-User Interface Front-End ****************************************************************************************
+User Interface Front-End https://drive.google.com/file/d/1Fnj7eZKvV7G43BrwiMaadktNwpiIrCR3/view?usp=drive_link
